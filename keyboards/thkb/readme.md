@@ -2,11 +2,14 @@
 
 ![thkb](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+The THKB is a 40% keyboard project by ne0phyte which has seen no activity for around 4 years. 
+But I thought it would be worth porting qmk to it. Who knows maybe someone will pick it up again.
+
+[Original Deskthority thread](https://deskthority.net/viewtopic.php?f=7&t=6455&start=270)
 
 * Keyboard Maintainer: [RoastPotatoes](https://github.com/yourusername)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: THKB prototype boards
+* Hardware Availability: Not available
 
 Make example for this keyboard (after setting up your build environment):
 

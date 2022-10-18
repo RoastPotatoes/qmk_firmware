@@ -1,12 +1,17 @@
 # 6260
 
-![6260](imgur.com image replace me!)
+![6260](https://i.imgur.com/5ONoIBb.png)
 
-*A short description of the keyboard/project*
+Features:
 
-* Keyboard Maintainer: [roastpotatoes](https://github.com/yourusername)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+    Fully programmable per-key and underglow RGB LEDs
+    Fully programmable layout- compatible with EasyAVR and QMK
+    Hot swappable switches- simply pull them out and replace
+    Acrylic sandwich case with 8o tilt
+
+* Keyboard Maintainer: [roastpotatoes](https://github.com/RoastPotatoes)
+* Hardware Supported: rev 0.1
+* Hardware Availability: Not available
 
 Make example for this keyboard (after setting up your build environment):
 
